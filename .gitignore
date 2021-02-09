@@ -130,4 +130,6 @@ dmypy.json
 
 #Extra
 /out
-/.idea
+*.idea
+*.sqlite
+*.yml
